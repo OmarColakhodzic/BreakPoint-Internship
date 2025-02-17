@@ -5,8 +5,8 @@
 SyncPoint365 is a web application that enables users to search through absence request types and send requests for absence days such as vacation, remote work, etc.
 
 ## Created by:
-Omar Čolakhodžić
-Katarina Zelenika
+Omar Čolakhodžić  
+Katarina Zelenika  
 Belmin Šuta
 
 ## Instructions for use:
